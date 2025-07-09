@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0",
+  "project": "usagedemo",
+  "outputDir": ".dg",
+  "updated": "2025-07-09T08:59:56.095Z",
+  "casts": [
+    {
+      "name": "useagedemo",
+      "title": "useagedemo",
+      "created": "2025-07-09T08:31:09.633Z",
+      "updated": "2025-07-09T08:31:09.633Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      },
+      "command": "exit"
+    },
+    {
+      "name": "usagedemo",
+      "title": "usagedemo",
+      "created": "2025-07-09T08:59:56.094Z",
+      "updated": "2025-07-09T08:59:56.094Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      },
+      "command": "exit"
+    }
+  ]
+}

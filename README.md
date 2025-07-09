@@ -15,6 +15,8 @@ Run `npm install -g @bigcommerce/stencil-cli`.
 Visit the [installation guide](https://developer.bigcommerce.com/stencil-docs/getting-started/installing-stencil)
 for more details.
 
+![demo](./.dg/svg/usagedemo-dark.svg)
+
 ## Usage
 
 ```text
